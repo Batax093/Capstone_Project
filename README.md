@@ -11,7 +11,7 @@ saya gunakan juga akan diminimalisasi dan dioptimalkan dengan tujuan
 mempermudah projek ini untuk mencapa hasilnya dan di tahap ini juga saya akan 
 menganalisa data yang akan dipakai dari segi kualitasnya.
 
-Import Libraries yang diperlukan di dalam project
+1* Import Libraries yang diperlukan di dalam project
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Dapec1.png)
 
 ### Data Preprocessing
