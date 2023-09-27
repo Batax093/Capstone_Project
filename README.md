@@ -3,11 +3,11 @@ Berikut adalah Repositori Project [Analisa Pandemi Virus Covid-19 di Indonesia M
 Dataset dapat diakses di link Kaggle berikut [Covid-19 Indonesia Dataset](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
 
 ## Pengerjaan project dimulai dengan Data Exploration, Data Preprocessing, Training Model, Model Visualization, dan Evaluation
-1. [Sign up for WatsonX](#A-sign-up-for-watsonx)
-2. [Create a service](#B-create-a-service)
-3. [Create the notebook](#C-create-the-notebook)
-4. [Run the notebook](#D-run-the-notebook)
-5. [Test the model](#E-Test-the-model)
+1. [Data Exploration](#A-data-exploration)
+2. [Data Preprocessing](#B-data-preprocessing)
+3. [Model Training](#C-model-training)
+4. [Model Visualization and Evaluation](#D-model-visualization-and-evaluation)
+5. [Kesimpulan](#E-kesimpulan)
 
 ### A. Data Exploration
 Pada tahap pengerjaan Data Exploration disini saya menganalisa data yang akan 
@@ -101,7 +101,7 @@ evaluasi terhadap beberapa algoritma yang paling optimal.
 6. Hasil perbandingan algoritma regresi
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Modev6.png)
 
-### Kesimpulan
+### E. Kesimpulan
 1. Mean Absolute Error (MAE) adalah metrik yang mengukur rata-rata kesalahan 
 prediksi model dalam satuan yang sama dengan variabel dependen. Semakin 
 rendah MAE, semakin baik modelnya dalam melakukan prediksi. Dalam hal 
