@@ -3,7 +3,13 @@ Berikut adalah Repositori Project [Analisa Pandemi Virus Covid-19 di Indonesia M
 Dataset dapat diakses di link Kaggle berikut [Covid-19 Indonesia Dataset](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
 
 ## Pengerjaan project dimulai dengan Data Exploration, Data Preprocessing, Training Model, Model Visualization, dan Evaluation
-### Data Exploration
+1. [Sign up for WatsonX](#A-sign-up-for-watsonx)
+2. [Create a service](#B-create-a-service)
+3. [Create the notebook](#C-create-the-notebook)
+4. [Run the notebook](#D-run-the-notebook)
+5. [Test the model](#E-Test-the-model)
+
+### A. Data Exploration
 Pada tahap pengerjaan Data Exploration disini saya menganalisa data yang akan 
 saya pakai untuk digunakan di dalam projek Analisis Pandemi Covid-19 di 
 Indonesia Menggunakan Algoritma Regresi ini. Pada tahap ini juga data yang akan 
@@ -17,7 +23,7 @@ menganalisa data yang akan dipakai dari segi kualitasnya.
 2. Identifikasi isi dari dataset yang dimiliki
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Datex2.png)
 
-### Data Preprocessing
+### B. Data Preprocessing
 Di dalam tahap Data Preprocessing, data akan dilatih dan akan dilakukan 
 pengetesan terhadap data agar dapat digunakan untuk pembuatan model. Sebelum 
 melakukan pelatihan data atau Data Training, data akan sebelumnya di cek terlebih 
@@ -51,7 +57,7 @@ dahulu kekosongan data yang ada atau bisa disebut juga proses Data Cleaning.
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Dapec10.png)
 
 
-### Model Training
+### C. Model Training
 Dalam tahap Training Model, ada beberapa proses yang akan dilakukan seperti 
 memisahkan data yang akan digunakan untuk training atau pelatihan dan untuk 
 testing atau pengetesan, menyiapkan model regresi yang akan digunakan. Setelah 
@@ -74,7 +80,7 @@ Karena menggunakan pipeline sehingga untuk pemrosesan algoritma lainnya dipermud
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Motra4.png)
 
 
-### Model Visualization and Evaluation
+### D. Model Visualization and Evaluation
 Model Visualization and Evaluation adalah tahap yang dimana sesuai dengan 
 Namanya yaitu memvisualisasikan model yang telah di training dan melakukan 
 evaluasi terhadap beberapa algoritma yang paling optimal.
