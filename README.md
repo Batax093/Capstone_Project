@@ -99,6 +99,7 @@ evaluasi terhadap beberapa algoritma yang paling optimal.
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Dapec6.png)
 
 6. Hasil perbandingan algoritma regresi
+![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Modev5.png)
 ![image](https://github.com/Batax093/Capstone_Project/blob/main/Dokumentasi/Modev6.png)
 
 ### E. Kesimpulan
